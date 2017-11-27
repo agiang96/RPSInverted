@@ -27,8 +27,7 @@ Sprites:
 Scripts:
 -	Gameplay adapted from: https://www.youtube.com/watch?v=VKYo4kfEaaA 
 -	AudioManager: https://www.youtube.com/watch?v=6OT43pvUyfY&t=2s 
--	LoadScreenOnClick and QuitOnClick: https://unity3d.com/learn/tutorials/topics/
-	user-interface-ui/creating-main-menu 
+-	LoadScreenOnClick and QuitOnClick: https://unity3d.com/learn/tutorials/topics/user-interface-ui/creating-main-menu 
 -	Mute: https://www.youtube.com/watch?v=TYMkftZGBGc 
 Tools:
 -	https://piskelapp.com/ 
