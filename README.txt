@@ -1,6 +1,6 @@
 To play the game:
 1. Download this repository either as a .zip or cloning the repository. 
-2. Open the RPSInverted.exe file under the MyBuilds folder
+2. Open the RPSInverted.exe file 
 3. If you'd rather not read the HowToPlay on the game screen, then here it is:
     - Click on the Buttons to choose your hand. 
     - Objective: React as fast as you can. If you can get a Score of 30, You Win! 
