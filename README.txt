@@ -14,6 +14,8 @@ Created by: Alexander Giang
 Class: CS583
 Professor: Steve Price
 
+original repo: http://rijeka.sdsu.edu/agiang/CS583_2D_Game_Giang_A_RPSInverted
+
 Citations: 
 Font:
 -	Hana Pixel Art Font: https://www.assetstore.unity3d.com/en/#!/content/29725 
