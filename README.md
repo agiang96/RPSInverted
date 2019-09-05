@@ -24,11 +24,11 @@ client
 --------------------------------------------------------------------------------
 Title Screen
 --------------------------------------------------------------------------------
-![alt text](https://github.com/agiang96/RPSInverted)
+![alt text](https://github.com/agiang96/RPSInverted/blob/master/TitleScreen.JPG)
 --------------------------------------------------------------------------------
 Gameplay
 --------------------------------------------------------------------------------
-![alt text](https://github.com/agiang96/RPSInverted)
+![alt text](https://github.com/agiang96/RPSInverted/blob/master/Gameplay.JPG)
 --------------------------------------------------------------------------------
 
 Citations
